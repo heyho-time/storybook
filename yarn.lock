@@ -12709,7 +12709,7 @@
     "parse-entities" "^2.0.0"
     "repeat-string" "^1.5.4"
     "state-toggle" "^1.0.0"
-    "trim" "0.0.1"
+    "trim" "1.0.1"
     "trim-trailing-lines" "^1.0.0"
     "unherit" "^1.0.4"
     "unist-util-remove-position" "^2.0.0"
@@ -14226,11 +14226,6 @@
   "integrity" "sha512-3JVP2YVqITUisXblCDq/Bi4P9457G/sdEamInkyvCsjbTcXLXIiG7XCb4kGMFWh6JGXesS3TKxOPtrncN/xe8w=="
   "resolved" "https://registry.npmjs.org/trim/-/trim-1.0.1.tgz"
   "version" "1.0.1"
-
-"trim@0.0.1":
-  "integrity" "sha512-YzQV+TZg4AxpKxaTHK3c3D+kRDCGVEE7LemdlQZoQXn0iennk10RsIoY6ikzAqJTc9Xjl9C1/waHom/J86ziAQ=="
-  "resolved" "https://registry.npmjs.org/trim/-/trim-0.0.1.tgz"
-  "version" "0.0.1"
 
 "trough@^1.0.0":
   "integrity" "sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA=="
